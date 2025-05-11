@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tetsuuya" alt="tetsuuya" /></a> </p>
 
-- 🔭 I’m currently working on [ECHo](https://github.com/Tetsuuya/ECHo-Audio_Compression.git)
+- 🔭 I’m currently working on [EHco](https://github.com/Tetsuuya/ECHo-Audio_Compression.git)
 
 - 🌱 I’m currently learning **Java**
 
-- 🤝 I’m looking for help with [ECHo](https://github.com/Tetsuuya/ECHo-Audio_Compression.git)
+- 🤝 I’m looking for help with [EHco](https://github.com/Tetsuuya/ECHo-Audio_Compression.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tetsuuya?tab=repositories](https://github.com/Tetsuuya?tab=repositories)
 
@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/https://www.facebook.com/tshirtnawhite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tshirtnawhite" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
