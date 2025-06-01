@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhenel Jhon Sajol</h1>
 <h3 align="center">An aspiring Full-Stack Developer from the Philippines, still learning and growing every day.</h3>
-![image](https://github.com/user-attachments/assets/0ff9aaee-21a0-46ce-b8f6-c80994d7bce4)
-
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tetsuuya&label=Profile%20views&color=0e75b6&style=flat" alt="tetsuuya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tetsuuya" alt="tetsuuya" /></a> </p>
