@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tetsuuya?tab=repositories](https://github.com/Tetsuuya?tab=repositories)
 
+- 👨‍💻 My portfolio is available at [https://rhnl-jhon-sajol.vercel.app/](https://rhnl-jhon-sajol.vercel.app/)
+
 - 📫 How to reach me **rheneljhon.sajol@1.ustp.edu.ph**
 
 <h3 align="left">Connect with me:</h3>
